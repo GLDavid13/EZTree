@@ -1,0 +1,12 @@
+c:\Users\3D\Documents\Hacking\dotnet\EZTree\EZTree\bin\Debug\net5.0\EZTree.deps.json
+c:\Users\3D\Documents\Hacking\dotnet\EZTree\EZTree\bin\Debug\net5.0\EZTree.dll
+c:\Users\3D\Documents\Hacking\dotnet\EZTree\EZTree\bin\Debug\net5.0\ref\EZTree.dll
+c:\Users\3D\Documents\Hacking\dotnet\EZTree\EZTree\bin\Debug\net5.0\EZTree.pdb
+c:\Users\3D\Documents\Hacking\dotnet\EZTree\EZTree\obj\Debug\net5.0\EZTree.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\3D\Documents\Hacking\dotnet\EZTree\EZTree\obj\Debug\net5.0\EZTree.AssemblyInfoInputs.cache
+c:\Users\3D\Documents\Hacking\dotnet\EZTree\EZTree\obj\Debug\net5.0\EZTree.AssemblyInfo.cs
+c:\Users\3D\Documents\Hacking\dotnet\EZTree\EZTree\obj\Debug\net5.0\EZTree.csproj.CoreCompileInputs.cache
+c:\Users\3D\Documents\Hacking\dotnet\EZTree\EZTree\obj\Debug\net5.0\EZTree.dll
+c:\Users\3D\Documents\Hacking\dotnet\EZTree\EZTree\obj\Debug\net5.0\ref\EZTree.dll
+c:\Users\3D\Documents\Hacking\dotnet\EZTree\EZTree\obj\Debug\net5.0\EZTree.pdb
+C:\Users\3D\Documents\Hacking\dotnet\EZTree\EZTree\obj\Debug\net5.0\EZTree.csproj.AssemblyReference.cache
