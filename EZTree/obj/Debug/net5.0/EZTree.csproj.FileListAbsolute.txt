@@ -10,3 +10,14 @@ c:\Users\3D\Documents\Hacking\dotnet\EZTree\EZTree\obj\Debug\net5.0\EZTree.dll
 c:\Users\3D\Documents\Hacking\dotnet\EZTree\EZTree\obj\Debug\net5.0\ref\EZTree.dll
 c:\Users\3D\Documents\Hacking\dotnet\EZTree\EZTree\obj\Debug\net5.0\EZTree.pdb
 C:\Users\3D\Documents\Hacking\dotnet\EZTree\EZTree\obj\Debug\net5.0\EZTree.csproj.AssemblyReference.cache
+C:\Users\bourgadn\Documents\Visual Studio\Projects\EZTree\EZTree\bin\Debug\net5.0\EZTree.deps.json
+C:\Users\bourgadn\Documents\Visual Studio\Projects\EZTree\EZTree\bin\Debug\net5.0\EZTree.dll
+C:\Users\bourgadn\Documents\Visual Studio\Projects\EZTree\EZTree\bin\Debug\net5.0\ref\EZTree.dll
+C:\Users\bourgadn\Documents\Visual Studio\Projects\EZTree\EZTree\bin\Debug\net5.0\EZTree.pdb
+C:\Users\bourgadn\Documents\Visual Studio\Projects\EZTree\EZTree\obj\Debug\net5.0\EZTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bourgadn\Documents\Visual Studio\Projects\EZTree\EZTree\obj\Debug\net5.0\EZTree.AssemblyInfoInputs.cache
+C:\Users\bourgadn\Documents\Visual Studio\Projects\EZTree\EZTree\obj\Debug\net5.0\EZTree.AssemblyInfo.cs
+C:\Users\bourgadn\Documents\Visual Studio\Projects\EZTree\EZTree\obj\Debug\net5.0\EZTree.csproj.CoreCompileInputs.cache
+C:\Users\bourgadn\Documents\Visual Studio\Projects\EZTree\EZTree\obj\Debug\net5.0\EZTree.dll
+C:\Users\bourgadn\Documents\Visual Studio\Projects\EZTree\EZTree\obj\Debug\net5.0\ref\EZTree.dll
+C:\Users\bourgadn\Documents\Visual Studio\Projects\EZTree\EZTree\obj\Debug\net5.0\EZTree.pdb

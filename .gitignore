@@ -1,3 +1,8 @@
 /.vs
 /.vscode
 /TestResults
+/EZTreeLoadJsonTest
+/EZTree/bin
+/EZTree/obj
+/EZTreeTest/bin
+/EZTreeTest/obj

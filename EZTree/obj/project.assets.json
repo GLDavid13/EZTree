@@ -8,23 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\3D\\.nuget\\packages\\": {},
+    "C:\\Users\\bourgadn\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\3D\\Documents\\Hacking\\dotnet\\EZTree\\EZTree\\EZTree.csproj",
+      "projectUniqueName": "C:\\Users\\bourgadn\\Documents\\Visual Studio\\Projects\\EZTree\\EZTree\\EZTree.csproj",
       "projectName": "EZTree",
-      "projectPath": "C:\\Users\\3D\\Documents\\Hacking\\dotnet\\EZTree\\EZTree\\EZTree.csproj",
-      "packagesPath": "C:\\Users\\3D\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\3D\\Documents\\Hacking\\dotnet\\EZTree\\EZTree\\obj\\",
+      "projectPath": "C:\\Users\\bourgadn\\Documents\\Visual Studio\\Projects\\EZTree\\EZTree\\EZTree.csproj",
+      "packagesPath": "C:\\Users\\bourgadn\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bourgadn\\Documents\\Visual Studio\\Projects\\EZTree\\EZTree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\3D\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bourgadn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -16,6 +16,7 @@ namespace db.Collections
             node.Parent = this;
         }
         public abstract ANode FindNode(object toFind, ANode node);
+        public abstract bool IsSameId(object id);
         /// <summary>
         /// Find all parents of current ANode.
         /// </summary>
