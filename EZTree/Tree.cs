@@ -5,5 +5,7 @@ namespace db.Collections{
         }
 
         public Tree(ANode root) : base(root){}
+
+        public string SelectedNode { get; set; }
     }
 }

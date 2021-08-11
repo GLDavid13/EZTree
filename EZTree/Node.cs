@@ -13,7 +13,7 @@ namespace db.Collections
                 return node;
             if(IsSameId(toFind))
                 return this;
-            return !Children.Any() ? null : Children.Select(child => child.FindNode(toFind, null)).FirstOrDefault();
+            return !Children.Any() ? null : Children.Select(child => child.FindNode(toFind, null)).FirstOrDefault(found => found != null);
         }
 
         public override bool IsSameId(object id)
