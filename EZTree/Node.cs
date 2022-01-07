@@ -3,6 +3,7 @@ using System.Linq;
 
 namespace db.Collections
 {
+    [Serializable]
     public class Node : ANode
     {
         public Node(object id):base(id){}
@@ -18,7 +19,7 @@ namespace db.Collections
 
         public override bool IsSameId(object id)
         {
-            return string.Compare(Id.ToString(), id.ToString(), StringComparison.Ordinal) == 0;
+            return Id!=null&&id!=null && string.Compare(Id.ToString(), id.ToString(), StringComparison.Ordinal) == 0;
         }
     }
 }

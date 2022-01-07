@@ -1,4 +1,8 @@
+using System;
+using System.Collections.Generic;
+
 namespace db.Collections{
+    [Serializable]
     public class Tree : ATree<ANode>{
         public Tree() : base(){
             Root = new Node(0);

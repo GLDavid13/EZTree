@@ -1,8 +1,10 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace db.Collections
 {
+    [Serializable]
     public abstract class ANode
     {
         protected ANode() => Children = new LinkedList<ANode>();
