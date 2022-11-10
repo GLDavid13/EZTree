@@ -2,7 +2,16 @@
 
   <PropertyGroup>
     <OutputType>Library</OutputType>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
+    <PackageId>$(AssemblyName)Core</PackageId>
+    <Title>EZTree</Title>
+    <Authors>David Bourgais (david.bourgais@gmail.com), David Bourgais (david.bourgais@perkinelmer.com)</Authors>
+    <Product>$(AssemblyName)Core</Product>
+    <Description>Core version for EZTree a library to compute N-ary tree</Description>
+    <Copyright>(c) David Bourgais 2022</Copyright>
+    <PackageProjectUrl>https://github.com/GLDavid13/EZTree</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/GLDavid13/EZTree</RepositoryUrl>
+    <PackageTags>Tree</PackageTags>
   </PropertyGroup>
 
 </Project>

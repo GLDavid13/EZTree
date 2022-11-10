@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\bourgadn\\.nuget\\packages\\": {},
@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bourgadn\\Documents\\Visual Studio\\Projects\\EZTree\\EZTree\\EZTree.csproj",
-      "projectName": "EZTree",
-      "projectPath": "C:\\Users\\bourgadn\\Documents\\Visual Studio\\Projects\\EZTree\\EZTree\\EZTree.csproj",
+      "projectUniqueName": "C:\\Users\\bourgadn\\OneDrive - PerkinElmer Inc\\Documents\\Visual Studio\\Projects\\EZTree6\\EZTree\\EZTree\\EZTree.csproj",
+      "projectName": "EZTreeCore",
+      "projectPath": "C:\\Users\\bourgadn\\OneDrive - PerkinElmer Inc\\Documents\\Visual Studio\\Projects\\EZTree6\\EZTree\\EZTree\\EZTree.csproj",
       "packagesPath": "C:\\Users\\bourgadn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bourgadn\\Documents\\Visual Studio\\Projects\\EZTree\\EZTree\\obj\\",
+      "outputPath": "C:\\Users\\bourgadn\\OneDrive - PerkinElmer Inc\\Documents\\Visual Studio\\Projects\\EZTree6\\EZTree\\EZTree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -31,15 +31,16 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://emeasgna31.perkinelmer.net:886/Nugets/nuget": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -50,15 +51,16 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -67,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
