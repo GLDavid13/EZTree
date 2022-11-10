@@ -90,6 +90,32 @@ namespace db.Collections.EZTreeTest
         }
 
         [TestMethod]
+        public void TestFindNodeFast()
+        {
+            try{
+                var node = new Node(1);
+                var node2 = new Node(2);
+                var node2a = new Node(4);
+                node2.AddChild(node2a);
+                var node3 = new Node(3);
+                node.AddChild(node2);
+                node.AddChild(node3);
+                var obvious = node.FindNode(1, null);
+                Assert.IsNotNull(obvious);
+                Assert.AreEqual(1, obvious.Id);
+                var found = node.FindNode(4, null);
+                Assert.IsNotNull(found);
+                Assert.AreEqual(4, found.Id);
+                Assert.AreEqual(2, found.Parent.Id);
+                var notFound = node.FindNode(5, null);
+                Assert.IsNull(notFound);
+            }
+            catch(Exception ex){
+                Assert.Fail(ex.Message);
+            }
+        }
+
+        [TestMethod]
         public void TestGetNodePath()
         {
             try{

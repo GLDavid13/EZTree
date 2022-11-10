@@ -3,6 +3,15 @@
   <PropertyGroup>
     <OutputType>Library</OutputType>
     <TargetFramework>net472</TargetFramework>
+    <RootNamespace>db.Collections</RootNamespace>
+    <Title>EZTree</Title>
+    <Authors>David Bourgais (david.bourgais@gmail.com), David Bourgais (david.bourgais@perkinelmer.com)</Authors>
+    <Company>PerkinElmer</Company>
+    <Description>N-ary tree algorihm</Description>
+    <Copyright>(c) David Bourgais 2022</Copyright>
+    <PackageProjectUrl>https://github.com/GLDavid13/EZTree/tree/net472</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/GLDavid13/EZTree/tree/net472</RepositoryUrl>
+    <PackageTags>Tree</PackageTags>
   </PropertyGroup>
 
 </Project>
