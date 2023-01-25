@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "EZTreeCore/1.0.0": {
+      "EZTreeCore/1.0.1": {
         "type": "project",
         "framework": "Unsupported,Version=v0.0",
         "compile": {
@@ -15,7 +15,7 @@
     }
   },
   "libraries": {
-    "EZTreeCore/1.0.0": {
+    "EZTreeCore/1.0.1": {
       "type": "project",
       "path": "../EZTree/EZTree.csproj",
       "msbuildProject": "../EZTree/EZTree.csproj"
@@ -23,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "EZTreeCore >= 1.0.0"
+      "EZTreeCore >= 1.0.1"
     ]
   },
   "packageFolders": {

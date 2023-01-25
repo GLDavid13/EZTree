@@ -1,11 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "q9+S4B2cdBrOEN9YsoqS1XT1VBJ87HD4z2wqT3NM+o5z9cGFaFZKJl9pY6OG/dbk6RtSni//a6nqqMGGBAI7wA==",
+  "dgSpecHash": "OngbJ489+5m8CW/9CJaf9fJiytlJ8Jo409o2CsaSyAMeFTU/fOo/Hj0hF2KkhSazcXLPFZjNUQ/RkahXNe68jQ==",
   "success": false,
   "projectFilePath": "C:\\Users\\bourgadn\\OneDrive - PerkinElmer Inc\\Documents\\Visual Studio\\Projects\\EZTree6\\EZTree\\EZTreeTest\\EZTreeTest.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\bourgadn\\.nuget\\packages\\eztreecore\\1.0.0\\eztreecore.1.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": [
     {
       "code": "NU1201",

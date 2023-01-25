@@ -12,6 +12,7 @@
     <PackageProjectUrl>https://github.com/GLDavid13/EZTree</PackageProjectUrl>
     <RepositoryUrl>https://github.com/GLDavid13/EZTree</RepositoryUrl>
     <PackageTags>Tree</PackageTags>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
