@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace db.Collections
 {
     public abstract class ATree<ANode>
@@ -7,5 +9,6 @@ namespace db.Collections
             Root = root;
         }
         public ANode Root{get;protected set;}
+        public ICollection<ANode>Nodes{get;}
     }
 }
