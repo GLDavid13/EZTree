@@ -1,5 +1,4 @@
 using System;
-using System.Linq;
 
 namespace db.Collections
 {
@@ -10,16 +9,26 @@ namespace db.Collections
 
         public override ANode FindNode(object toFind, ANode node)
         {
-            if(node!=null)
+            if (node != null)
                 return node;
-            if(IsSameId(toFind))
+            if (IsSameId(toFind))
                 return this;
-            return !Children.Any() ? null : Children.Select(child => child.FindNode(toFind, null)).FirstOrDefault(found => found != null);
+            foreach (var child in Children)
+            {
+                var found = child.FindNode(toFind, null);
+                if (found != null)
+                    return found;
+            }
+            return null;
         }
 
         public override bool IsSameId(object id)
         {
-            return Id!=null&&id!=null && string.Compare(Id.ToString(), id.ToString(), StringComparison.Ordinal) == 0;
+            if (Id == null || id == null)
+                return false;
+            if (ReferenceEquals(Id, id))
+                return true;
+            return string.Compare(Id.ToString(), id.ToString(), StringComparison.Ordinal) == 0;
         }
     }
 }
